@@ -1,0 +1,23 @@
+D:\Learning\c#\save\Save the Human\Save the Human\bin\Debug\Save the Human.exe
+D:\Learning\c#\save\Save the Human\Save the Human\bin\Debug\Save the Human.pdb
+D:\Learning\c#\save\Save the Human\Save the Human\bin\Debug\resources.pri
+D:\Learning\c#\save\Save the Human\Save the Human\bin\Debug\AppxManifest.xml
+D:\Learning\c#\save\Save the Human\Save the Human\bin\Debug\Save the Human.build.appxrecipe
+D:\Learning\c#\save\Save the Human\Save the Human\obj\Debug\App.g.i.cs
+D:\Learning\c#\save\Save the Human\Save the Human\obj\Debug\App.g.cs
+D:\Learning\c#\save\Save the Human\Save the Human\obj\Debug\MainPage.g.i.cs
+D:\Learning\c#\save\Save the Human\Save the Human\obj\Debug\MainPage.g.cs
+D:\Learning\c#\save\Save the Human\Save the Human\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Learning\c#\save\Save the Human\Save the Human\obj\Debug\Common\StandardStyles.g.cs
+D:\Learning\c#\save\Save the Human\Save the Human\obj\Debug\XamlTypeInfo.g.cs
+D:\Learning\c#\save\Save the Human\Save the Human\obj\Debug\App.xaml
+D:\Learning\c#\save\Save the Human\Save the Human\obj\Debug\MainPage.xaml
+D:\Learning\c#\save\Save the Human\Save the Human\obj\Debug\Common\StandardStyles.xaml
+D:\Learning\c#\save\Save the Human\Save the Human\obj\Debug\Save the Human.exe
+D:\Learning\c#\save\Save the Human\Save the Human\obj\Debug\Save the Human.pdb
+D:\Learning\c#\save\Save the Human\Save the Human\obj\Debug\priconfig.xml
+D:\Learning\c#\save\Save the Human\Save the Human\obj\Debug\layout.resfiles
+D:\Learning\c#\save\Save the Human\Save the Human\obj\Debug\resources.resfiles
+D:\Learning\c#\save\Save the Human\Save the Human\obj\Debug\pri.resfiles
+D:\Learning\c#\save\Save the Human\Save the Human\obj\Debug\LanguageQualifiers.txt
+D:\Learning\c#\save\Save the Human\Save the Human\obj\Debug\ProjectArchitectures.txt

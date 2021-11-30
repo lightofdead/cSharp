@@ -1,0 +1,15 @@
+D:\Learning\c#\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csprojAssemblyReference.cache
+D:\Learning\c#\WpfApp2\WpfApp2\obj\Debug\MainWindow.g.cs
+D:\Learning\c#\WpfApp2\WpfApp2\obj\Debug\App.g.cs
+D:\Learning\c#\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+D:\Learning\c#\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+D:\Learning\c#\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe.config
+D:\Learning\c#\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe
+D:\Learning\c#\WpfApp2\WpfApp2\bin\Debug\WpfApp2.pdb
+D:\Learning\c#\WpfApp2\WpfApp2\obj\Debug\MainWindow.baml
+D:\Learning\c#\WpfApp2\WpfApp2\obj\Debug\WpfApp2.g.resources
+D:\Learning\c#\WpfApp2\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+D:\Learning\c#\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+D:\Learning\c#\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+D:\Learning\c#\WpfApp2\WpfApp2\obj\Debug\WpfApp2.exe
+D:\Learning\c#\WpfApp2\WpfApp2\obj\Debug\WpfApp2.pdb

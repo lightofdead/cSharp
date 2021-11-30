@@ -1,0 +1,15 @@
+D:\Learning\c#\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe.config
+D:\Learning\c#\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe
+D:\Learning\c#\WpfApp3\WpfApp3\bin\Debug\WpfApp3.pdb
+D:\Learning\c#\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csprojAssemblyReference.cache
+D:\Learning\c#\WpfApp3\WpfApp3\obj\Debug\MainWindow.g.cs
+D:\Learning\c#\WpfApp3\WpfApp3\obj\Debug\App.g.cs
+D:\Learning\c#\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+D:\Learning\c#\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+D:\Learning\c#\WpfApp3\WpfApp3\obj\Debug\MainWindow.baml
+D:\Learning\c#\WpfApp3\WpfApp3\obj\Debug\WpfApp3.g.resources
+D:\Learning\c#\WpfApp3\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+D:\Learning\c#\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+D:\Learning\c#\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+D:\Learning\c#\WpfApp3\WpfApp3\obj\Debug\WpfApp3.exe
+D:\Learning\c#\WpfApp3\WpfApp3\obj\Debug\WpfApp3.pdb
