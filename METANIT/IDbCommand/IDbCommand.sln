@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDbCommand", "IDbCommand\IDbCommand.csproj", "{04686A11-718C-4279-908F-AA7CDF3EA23D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04686A11-718C-4279-908F-AA7CDF3EA23D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04686A11-718C-4279-908F-AA7CDF3EA23D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04686A11-718C-4279-908F-AA7CDF3EA23D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04686A11-718C-4279-908F-AA7CDF3EA23D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80A7E34B-D6D9-42AF-A1F3-39D22A6265B8}
+	EndGlobalSection
+EndGlobal
