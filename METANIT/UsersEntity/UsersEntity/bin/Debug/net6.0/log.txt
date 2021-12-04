@@ -1,0 +1,55 @@
+Entity Framework Core 6.0.0 initialized 'helloappdbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: NoneExecuted DbCommand (14ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1Executed DbCommand (6ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [u].[Id], [u].[age], [u].[Name]
+FROM [Users] AS [u]Executed DbCommand (17ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Users] ([age], [Name])
+VALUES (@p0, @p1);
+SELECT [Id]
+FROM [Users]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();Entity Framework Core 6.0.0 initialized 'helloappdbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: NoneExecuted DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [u].[Id], [u].[age], [u].[Name]
+FROM [Users] AS [u]Entity Framework Core 6.0.0 initialized 'helloappdbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: NoneThe query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[age], [u].[Name]
+FROM [Users] AS [u]Executed DbCommand (1ms) [Parameters=[@p2='?' (DbType = Int32), @p0='?' (DbType = Int32), @p1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [Users] SET [age] = @p0, [Name] = @p1
+WHERE [Id] = @p2;
+SELECT @@ROWCOUNT;Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [u].[Id], [u].[age], [u].[Name]
+FROM [Users] AS [u]Entity Framework Core 6.0.0 initialized 'helloappdbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: NoneExecuted DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [u].[Id], [u].[age], [u].[Name]
+FROM [Users] AS [u]Executed DbCommand (2ms) [Parameters=[@p0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+DELETE FROM [Users]
+WHERE [Id] = @p0;
+SELECT @@ROWCOUNT;Entity Framework Core 6.0.0 initialized 'helloappdbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: NoneExecuted DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [u].[Id], [u].[age], [u].[Name]
+FROM [Users] AS [u]Entity Framework Core 6.0.0 initialized 'helloappdbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: NoneExecuted DbCommand (13ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1Executed DbCommand (5ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [u].[Id], [u].[age], [u].[Name]
+FROM [Users] AS [u]Executed DbCommand (15ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Users] ([age], [Name])
+VALUES (@p0, @p1);
+SELECT [Id]
+FROM [Users]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();Entity Framework Core 6.0.0 initialized 'helloappdbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: NoneExecuted DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [u].[Id], [u].[age], [u].[Name]
+FROM [Users] AS [u]Entity Framework Core 6.0.0 initialized 'helloappdbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: NoneThe query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results.Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[age], [u].[Name]
+FROM [Users] AS [u]Executed DbCommand (1ms) [Parameters=[@p2='?' (DbType = Int32), @p0='?' (DbType = Int32), @p1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [Users] SET [age] = @p0, [Name] = @p1
+WHERE [Id] = @p2;
+SELECT @@ROWCOUNT;Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [u].[Id], [u].[age], [u].[Name]
+FROM [Users] AS [u]Entity Framework Core 6.0.0 initialized 'helloappdbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: NoneExecuted DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [u].[Id], [u].[age], [u].[Name]
+FROM [Users] AS [u]Executed DbCommand (1ms) [Parameters=[@p0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+DELETE FROM [Users]
+WHERE [Id] = @p0;
+SELECT @@ROWCOUNT;Entity Framework Core 6.0.0 initialized 'helloappdbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: NoneExecuted DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [u].[Id], [u].[age], [u].[Name]
+FROM [Users] AS [u]

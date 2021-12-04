@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a02a0631-3d7d-4fc9-bcea-2273c585e29a": {
+      "ProjectGuid": "a02a0631-3d7d-4fc9-bcea-2273c585e29a",
+      "DisplayName": "sqlDataSet",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
