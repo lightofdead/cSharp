@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learning\\c#\\METANIT\\UsersEntity\\UsersEntity\\UsersEntity.csproj": {}
+    "D:\\Learning\\c#\\METANIT\\SQLToEntity\\SQLToEntity.csproj": {}
   },
   "projects": {
-    "D:\\Learning\\c#\\METANIT\\UsersEntity\\UsersEntity\\UsersEntity.csproj": {
+    "D:\\Learning\\c#\\METANIT\\SQLToEntity\\SQLToEntity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning\\c#\\METANIT\\UsersEntity\\UsersEntity\\UsersEntity.csproj",
-        "projectName": "UsersEntity",
-        "projectPath": "D:\\Learning\\c#\\METANIT\\UsersEntity\\UsersEntity\\UsersEntity.csproj",
+        "projectUniqueName": "D:\\Learning\\c#\\METANIT\\SQLToEntity\\SQLToEntity.csproj",
+        "projectName": "SQLToEntity",
+        "projectPath": "D:\\Learning\\c#\\METANIT\\SQLToEntity\\SQLToEntity.csproj",
         "packagesPath": "C:\\Users\\79535\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning\\c#\\METANIT\\UsersEntity\\UsersEntity\\obj\\",
+        "outputPath": "D:\\Learning\\c#\\METANIT\\SQLToEntity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,16 +45,6 @@
           "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[6.0.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[6.0.0, )"
-            },
-            "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
               "version": "[6.0.0, )"
             }
